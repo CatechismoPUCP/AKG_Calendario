@@ -78,11 +78,11 @@ Il file Excel generato contiene le seguenti colonne:
 - TOTALE_ORE (sempre 1)
 - ORA_INIZIO
 - ORA_FINE
-- TIPOLOGIA (sempre 4)
+- TIPOLOGIA (1 se ufficio 4 se online)
 - CODICE FISCALE DOCENTE
 - MATERIA
 - CONTENUTI MATERIA
-- SVOLGIMENTO SEDE LEZIONE (vuoto)
+- SVOLGIMENTO SEDE LEZIONE (1 se ufficio; 4 se vuoto)
 
 ## ⚠️ Note Importanti
 
